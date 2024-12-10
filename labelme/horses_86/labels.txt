@@ -1,3 +1,0 @@
-__ignore__
-__background__
-horse
