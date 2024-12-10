@@ -1,0 +1,36 @@
+{
+    "info": {
+        "description": "COCO dataset with background images only",
+        "version": "1.0",
+        "year": 2024
+    },
+    "licenses": [],
+    "images": [
+        {
+            "id": 1,
+            "file_name": "20240905_221039.jpg",
+            "width": 640,
+            "height": 480
+        },
+        {
+            "id": 2,
+            "file_name": "20240910_044039_1.jpg",
+            "width": 640,
+            "height": 480
+        },
+        {
+            "id": 3,
+            "file_name": "20241001_022039.jpg",
+            "width": 640,
+            "height": 480
+        },
+        {
+            "id": 4,
+            "file_name": "20241110_023039_1.jpg",
+            "width": 640,
+            "height": 480
+        }
+    ],
+    "annotations": [],
+    "categories": []
+}

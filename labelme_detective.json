@@ -1,0 +1,46 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "horse",
+      "points": [
+        [
+          112.57142857142858,
+          63.714285714285715
+        ],
+        [
+          352.0,
+          216.2857142857143
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "horse",
+      "points": [
+        [
+          477.7142857142858,
+          203.71428571428572
+        ],
+        [
+          598.8571428571429,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "20240905_055039.jpg",
+  "imageData": "",
+  "imageHeight": 480,
+  "imageWidth": 640
+}

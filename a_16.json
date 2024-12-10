@@ -1,0 +1,56 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "bounding_box",
+            "points": [
+                [
+                    8.4,
+                    76.8
+                ],
+                [
+                    16.8,
+                    93.9
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "Nose",
+            "points": [
+                [
+                    16.8,
+                    93.9
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "point",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "R_Eye",
+            "points": [
+                [
+                    8.4,
+                    76.8
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "point",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "a_16.png",
+    "imageData": "",
+    "imageHeight": 162,
+    "imageWidth": 288
+}

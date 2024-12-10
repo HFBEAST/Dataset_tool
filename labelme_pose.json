@@ -1,0 +1,84 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "horse",
+      "points": [
+        [
+          17.70601336302895,
+          38.11247216035635
+        ],
+        [
+          299.0,
+          222.45453929241086
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "L_B_Paw",
+      "points": [
+        [
+          238.195991091314,
+          217.17706013363028
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "R_B_Elbow",
+      "points": [
+        [
+          239.97772828507794,
+          142.56681514476614
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "R_B_Knee",
+      "points": [
+        [
+          274.0534521158129,
+          166.39755011135858
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "R_B_Knee",
+      "points": [
+        [
+          296.9933184855234,
+          207.37750556792872
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "ho1.jpeg",
+  "imageData": "",
+  "imageHeight": 225,
+  "imageWidth": 300
+}
